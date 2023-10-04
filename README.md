@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-To run test apis we used [json-server](https://www.npmjs.com/package/json-server)
+To run test apis using [json-server](https://www.npmjs.com/package/json-server)
 
 Run following command to run test api
 
