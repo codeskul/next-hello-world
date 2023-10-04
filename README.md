@@ -6,9 +6,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 To run test apis we used [json-server](https://www.npmjs.com/package/json-server)
 
-```bash
 Run following command to run test api
+
+```bash
 json-server --watch --port 4000 ./_data/db.json
+```
 
 Then, run the development server:
 
